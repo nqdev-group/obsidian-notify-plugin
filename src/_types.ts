@@ -1,0 +1,1 @@
+import type { CachedMetadata, TagCache, TFile } from 'obsidian'
